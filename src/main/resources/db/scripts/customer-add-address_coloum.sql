@@ -1,0 +1,1 @@
+ALTER TABLE customer ADD address VARCHAR(25);
